@@ -10,11 +10,11 @@ ModHaven is a modded Minecraft community offering premium gameplay experiences t
 1. **Donation & Subscription Models (CraftingStore)**
    - Tiered memberships offering in-game perks, cosmetics, and exclusive server access.
    - Rank pricing:
-     - **$10/month** – Tier 1.
-     - **$20/month** – Tier 2.
-     - **$30/month** – Tier 3.
-     - **$40/month** – Tier 4.
-     - **$50/month** – Tier 5.
+     - **$10/Lifetime** – Tier 1.
+     - **$20/Lifetime** – Tier 2.
+     - **$30/Lifetime** – Tier 3.
+     - **$40/Lifetime** – Tier 4.
+     - **$50/Lifetime** – Tier 5.
 
 2. **One-time Purchases**
    - Custom ranks, commands (e.g., `/fly`, `/nick`).
@@ -46,6 +46,8 @@ ModHaven is a modded Minecraft community offering premium gameplay experiences t
 ### **A. Breakeven Analysis**
 - Minimum revenue to cover costs: **$300/month**.
 - Goal: Achieve **$1,000+/month** within 6 months.
+
+---
 
 ### **B. Expansion Strategies**
 1. **Invest in High-Quality Content**
